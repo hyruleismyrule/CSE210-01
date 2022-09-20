@@ -1,5 +1,4 @@
-""" W02 Tic-Tac-Toe Game 
-by Cynthia Rawlings """
+""" W02 Tic-Tac-Toe Game by Cynthia Rawlings """
 
 def instructions():
     """ Gives the begining instructions to the players. """
